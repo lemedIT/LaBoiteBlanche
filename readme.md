@@ -1,4 +1,4 @@
-# LaBoiteblanche
+# LaBoiteBlanche
 
 LaBoiteBlanche est le site internet spécialisé dans les mariages du photographe Lounes BabaAhmed. 📸💍✨
 
@@ -25,3 +25,8 @@ docker-compose up -d
 symfony serve -d
 ```
 
+## Lancer des tests
+
+```bash
+php bin/phpunit --testdox
+```
